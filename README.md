@@ -1,4 +1,5 @@
 # GOMON (Ride for everyone)
+![GOMON Logo](logo.png)
 Ride Sharing and Transportation Management System
 
 ## Overview
